@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Repair_PC</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_opciones">Opciones</string>
+    <string name="title_activity_ayuda">Ayuda</string>
+    <string name="title_activity_consulta">Consulta</string>
+    <string name="title_activity_proceso">Proceso</string>
+    <string name="title_activity_consulta2">Consulta2</string>
+    <string name="title_activity_consulta3">Consulta3</string>
+</resources>
